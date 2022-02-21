@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonochocki" alt="jonochocki" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jonathanochocki" target="blank"><img src="https://img.shields.io/twitter/follow/jonathanochocki?logo=twitter&style=for-the-badge" alt="jonathanochocki" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ItsJonLebron" target="blank"><img src="https://img.shields.io/twitter/follow/ItsJonLebron?logo=twitter&style=for-the-badge" alt="ItsJonLebron" /></a> </p>
 
 - 🔭 I’m currently working on **email marketing analytics**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jonlebron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jonlebron" height="30" width="40" /></a>
-<a href="https://twitter.com/jonathanochocki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanochocki" height="30" width="40" /></a>
+<a href="https://twitter.com/ItsJonLebron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ItsJonLebron" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jonlebron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonlebron" height="30" width="40" /></a>
 <a href="https://fb.com/jonochocki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonochocki" height="30" width="40" /></a>
 <a href="https://instagram.com/jonochocki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonochocki" height="30" width="40" /></a>
