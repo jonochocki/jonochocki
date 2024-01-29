@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **email marketing analytics**
 
-- 👯 I’m looking to collaborate on **sms marketing**
+- 👯 I’m looking to collaborate on **VisionOS Development**
 
 - 👨‍💻 All of my projects are available at [https://jonlebron.com](https://jonlebron.com)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://jonlebron.com](https://jonlebron.com)
 
-- ⚡ Fun fact **I make a mean cup of coffee**
+- ⚡ Download a free Vision Pro 3D accessory here: [Battery Desk Mount](https://jonlebron.com/vision-pro-battery-dock)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
