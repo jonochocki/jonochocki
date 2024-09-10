@@ -17,6 +17,5 @@
 
 - 📄 Know about my experiences [https://jonlebron.com](https://jonlebron.com)
 
-- ⚡ Download a free Vision Pro 3D accessory here: [Battery Desk Mount](https://jonlebron.com/vision-pro-battery-dock)
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonochocki&show_icons=true&locale=en&layout=compact" alt="jonochocki" /></p>
