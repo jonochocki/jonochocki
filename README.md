@@ -11,11 +11,9 @@
 
 - 👯 I’m looking to collaborate on **VisionOS Development**
 
-- 👨‍💻 All of my projects are available at [https://jonlebron.com](https://jonlebron.com)
+- 👨‍💻 All of my projects are available at [https://jonochocki.com](https://jonochocki.com)
 
-- 📫 How to reach me **hello@jonlebron.com**
-
-- 📄 Know about my experiences [https://jonlebron.com](https://jonlebron.com)
+- 📫 How to reach me **jonochocki@gmail.com**
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonochocki&show_icons=true&locale=en&layout=compact" alt="jonochocki" /></p>
