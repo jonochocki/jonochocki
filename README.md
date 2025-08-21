@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A passionate web design / marketing developer from Chicago</h3>
+<h3 align="center">A passionate web design / marketing developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonochocki&label=Profile%20views&color=0e75b6&style=flat" alt="jonochocki" /> </p>
 
