@@ -1,6 +1,6 @@
 # Hi, I'm Jon 👋
 
-📍 STL ↔ Chicago | 🤖 Agentic Systems Builder | 🚀 Digital-First Entrepreneur
+📍 STL ↔ Chicago ↔ London | 🤖 Agentic Systems Builder | 🚀 Digital-First Entrepreneur
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
